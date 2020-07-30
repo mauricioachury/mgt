@@ -1,10 +1,10 @@
-# Guía para primer uno a uno
+# Guía para Primer Uno a Uno
 
-Usa esta guía de preguntas para establecer una nueva relación con un miembro de tu equipo. Te ayudará a establecer un puente, y a aprender sobre sus expectativas.
+Usa esta guía de preguntas para establecer una nueva relación con un miembro de tu equipo. Te ayudará a establecer un puente, y aprender sobre sus expectativas.
 
-Siempre que empiezo una relación nueva con un miembro de mi equipo, inicio un documento nuevo para cada uno de mis reportes y les una serie de preguntas para aprender a conocerlos mejor, sentar espectativas en nuestra relación y empezar a generar confianza.
+Siempre que empiezo una relación nueva con un miembro de mi equipo, inicio un documento nuevo para cada uno de mis reportes y les hago una serie de preguntas para aprender a conocerlos mejor, sentar expectativas en nuestra relación y empezar a generar confianza.
 
-## Retroalimentación y objetivos
+## Retroalimentación y Objetivos
 - ¿Cuál medio prefieres para recibir retroalimentación?
 	- Correo, chat, en persona, llamada telefónica, etc.
 - ¿De qué forma prefieres recibir retroalimentación?
@@ -14,7 +14,7 @@ Siempre que empiezo una relación nueva con un miembro de mi equipo, inicio un d
 - ¿Cuáles son tus objetivos personales y profesionales dentro de los próximos 12 meses?
 	- ¿Y para los siguientes 3 meses?
 
-Estas preguntas las [adapté de una guía de Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/), quien a su vez las adapto de su gerente Mike Brittain. Me ayudan a entender cuál es la "configuración predeterminada" de cada persona, y adaptar la forma en la que les doy retroalimentación, para que esta sea más efectiva.
+Estas preguntas las [adapté de una guía de Lara Hogan] (https://larahogan.me/blog/first-one-on-one-questions/), quien a su vez las adapto de su gerente Mike Brittain. Me ayudan a entender cuál es la "configuración predeterminada" de cada persona, y adaptar la forma en la que les doy retroalimentación, para que esta sea más efectiva.
 
 ## Expectativas
 - ¿Qué esperas de tu equipo?
@@ -31,23 +31,21 @@ Estas preguntas me ayudan a entender cómo mi nuevo reporte ve la relación suya
 
 Estas preguntas las escribí cuando empecé en Splice, quería entender la perspectiva de cada miembro de mi equipo, ya que estaba entrando a una empresa y equipo que ya llevaba operando un tiempo. Hay algunas que no tienen sentido si es tu primer 1:1 con una persona que acabas de contratar, usa tu discreción e ignóralas.
 
-## Nuestra relación
+## Nuestra Relación
 - ¿Dónde crees que debería enfocar mi atención?
 - ¿Cómo puedo hacer tu vida (en el trabajo, o afuera) más fácil?
 - ¿Qué esperas de mí?
 
 Estas preguntas también las escribí al entrar a Splice, me ayudan a entender cómo mi nuevo reporte percibe nuestra relación, y además aprender de su perspectiva en los problemas que yo puedo resolver. Nuevamente, sáltate las que no tengan sentido en tu situación, no hagas preguntas por hacerlas.
 
-## La pregunta clave
+## La Pregunta Clave
 - ¿Cuál es tu postre o flor favorita?
 
 Esta pregunta también la adapte de Lara, ella tiene una práctica donde celebra sus propios logros con donas. En mi caso, los equipos que he formado siempre son distribuidos. Cuando quiero reconocer a alguien, le envió un postre, o flores y me ayuda a personalizar este reconocimiento.
 
 
-## Preguntas
-
-Usualmente, antes de nuestro primer 1:1, le envio un correo a mi nuevo reporte (o agrego notas en la invitación de calendario) contándole acerca del objetivo de nuestra primera reunion. Le envio algunas de estas preguntas por escrito, y le invito a que piense y me envie preguntas que tenga igual para que yo pueda prepararme también.
+## Preparación Previa al Uno a Uno
+Usualmente, antes de nuestro primer 1:1, le envío un correo a mi nuevo reporte (o agrego notas en la invitación de calendario) contándole acerca del objetivo de nuestra primera reunión. Le envío algunas de estas preguntas por escrito, y le invito a que piense y me envíe preguntas que tenga igual para que yo pueda prepararme también.
 
 ## Link
-
-⚡️ Para hacerte la vida más fácil, si haces [click aquí](https://bit.ly/primer-1-1) creas un documento nuevo con la lista completa de preguntas.
+⚡️ Para hacerte la vida más fácil, si haces [clic aquí] (https://bit.ly/primer-1-1) creas un documento nuevo con la lista completa de preguntas.
